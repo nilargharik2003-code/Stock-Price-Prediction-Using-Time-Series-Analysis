@@ -1,7 +1,7 @@
 # Stock-Price-Prediction-Using-Time-Series-Analysis
 # Stock Price Prediction Using Time Series Analysis 📈
 
-This project focuses on analyzing and forecasting the daily closing price of **Tata Motors** using **Time Series Analysis** and the **ARIMA (Autoregressive Integrated Moving Average)** framework. The analysis examines trend, seasonality, stationarity, autocorrelation, and short-term forecasting performance using historical stock-price data.
+This project focuses on analyzing and forecasting the daily closing price of **Tata Motors** using **Time Series Analysis** and the **ARIMA (Autoregressive Integrated Moving Average)** framework. The analysis examines trend, seasonality, stationarity, autocorrelation, and short-term forecasting using historical stock-price data.
 
 ## 💾 Data Description
 
@@ -118,9 +118,3 @@ Overall, the analysis demonstrates how **ARIMA-based time-series modelling can b
 * **NumPy** – Numerical computations
 * **Matplotlib** – Data visualization
 * **Statsmodels** – ADF test, ACF/PACF analysis, and SARIMAX modelling
-
-***
-
-## ⚠️ Disclaimer
-
-This project is intended for **academic and educational purposes**. Stock-price forecasts are statistical estimates based on historical data and should not be interpreted as guaranteed predictions or financial advice.
